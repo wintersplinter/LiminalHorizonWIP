@@ -1,2 +1,2 @@
-# LiminalHorizonWIP
-under construction landing
+# LiminalHorizon
+under construction
